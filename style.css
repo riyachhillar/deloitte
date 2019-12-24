@@ -1,0 +1,33 @@
+.d1{
+	background-color : black;
+	height :150px;
+	border : 1px solid;
+	
+}
+
+.d2{
+	border :  1px solid;
+	height :200px;
+	width : 500px;
+	
+	float : left;
+	
+}
+
+.d3{
+    border :  1px solid;
+	height :200px;
+	width : 500px;
+	
+	float : right;
+	
+}
+	
+
+.d4{
+	
+	border : 1px solid;
+	height : 300px;
+	
+}
+
