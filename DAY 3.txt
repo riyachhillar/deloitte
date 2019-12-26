@@ -1,0 +1,24 @@
+DAY 3
+
+Different html form attributes
+pattern validation in html 
+validation form feilds using match method
+
+Javascript introduction
+variables 
+internal and external JS
+datatypes in javascripts
+arrays
+for loop
+functions
+console.log and alert 
+innerHTML : printing data in html page
+how to fetch elements :
+   getElementById, getElementsByClassName
+Javascript events : onclick, onchange, oninput, onsubmit
+radio button, drop down and checkbox validation
+On submit validation
+
+
+
+
