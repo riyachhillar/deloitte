@@ -1,0 +1,68 @@
+DAY 1 (23rd dec)
+
+1. SDLC
+2. OOPS Principles
+3. Agile
+4. scrum framework :
+    scrum master
+	product owner
+	ceremonies
+	sprint planning 
+	daily scrum 
+	sprint review 
+	sprint retrospective
+	product backlog
+	sprint backlog
+5. Devops tools - jira, git
+6. Software Testing :
+    Black box, white box, grey box, ad hoc, end-to-end, smpke and sanity,
+	security, concurrent and parallel
+7. git and github
+8. repository creation
+9. pushing and pulling files in multiple branches
+
+
+
+DAY 2 (24th dec)
+
+1. push pull using cmd
+2. basic html syntax (head, body etc)
+3. block and inline elements 
+4. table creation 
+5. div and span
+6. image tag
+7. inline CSS
+8. internal & external CSS
+9. CSS properties :
+    background-color, color, border, margin,
+	height, width, padding, align 
+10. CSS box model
+11. bootstrap introduction 
+12. grid system : bootstrap link, row class, col class, xs, sm, md, lg
+13. form elements : 
+     textbox, radio button, checkbox, submit, reset, textarea, select, password, upload
+14. form attributes : name, value, placeholder, checked, selected, multiple 
+
+
+
+
+DAY 3 (26th dec)
+
+1. Different html form attributes
+2. pattern validation in html 
+3. validation form feilds using match method
+
+4. Javascript introduction
+5. variables 
+6. internal and external JS
+7. datatypes in javascripts
+8. arrays
+9. for loop
+10. functions
+11. console.log and alert 
+12. innerHTML : printing data in html page
+13. how to fetch elements :
+   getElementById, getElementsByClassName
+14. Javascript events : onclick, onchange, oninput, onsubmit
+15. radio button, drop down and checkbox validation
+16. On submit validation
