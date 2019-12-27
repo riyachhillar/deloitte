@@ -1,0 +1,53 @@
+<html>
+<head>
+<script src = "../JS/javascript1.js">
+
+
+</script>
+ <h1 align="center" > <font color = "#FFFAFA"> NEW HIRE REGISTORY </font></h1> </head>
+<body bgcolor = "#4682B4">
+<div align = "center" >
+<div  style = "background-color : #ADD8E6; border :  1px solid white; width: 50% ; height : 100%">
+<form onsubmit = "return submitForm()"> 
+
+<br><br>
+<div style ="float: left; padding-left : 50px"> Name : </div>
+ <input type="text" placeholder = "Enter name here" name = "name" maxlength="50" 
+ pattern = "[A-Z]{1}[a-z A-Z]+"  style ="float: right; width : 300px; padding-right : 20px;"> <br> <br> 
+ <div style ="float: left; padding-left : 50px">Gender : </div>
+ Male <input type="radio" name = "gender" value="male" > 
+ Female <input type="radio" name = "gender" value="female" > 
+ Other <input type="radio" name = "gender" value="other"> 
+ <span id = "id1"> </span>
+ 
+ <br> <br> <br>
+ Password : <input type="password"  name = "pass" pattern = "[A-Z]{1}[a-z @#$% 0-9 A-Z].{7,}">
+ <br> <br>
+ 
+ Citizenship     Indian : <input type="checkbox" name = "indian"> Other : <input type="checkbox" name = "abroad">
+<br> <br>
+ Phone number : <input type="text" placeholder = "Enter phone number" name = "phone"
+ pattern = "[6-9]{1}[0-9]{9}"> <br> <br>
+ Email : <input type="text" placeholder = "example : abc@xyz.com" name = "email"
+ pattern = "[a-z A-Z 0-9_.]+[@]{1}[a-z A-Z]+(.com |.co.in)"> <br> <br>
+ Date : <input type="date"  name = "date"> <br> <br>
+ Address :<input type="textarea" name = "addr" rows = ""> <br> <br> <br>
+ Location Preferences : 
+ <select name="cities" id ="dropDown" multiple>
+  <option value="mum">Mumbai</option>
+  <option value="del">Delhi</option>
+  <option value="bgl">Bangalore</option>
+  <option value="hyd">Hyderabad</option>
+</select> 
+ <span id = "id2"> </span>
+
+<br><br><br>
+Upload CV/Resume : <input type="file">
+
+<br><br><br><br><br>
+Reset <input type= "reset">		Submit <input type="submit" value = "Submit" required>
+</div> </div>
+
+</form>
+</body>
+</html>
